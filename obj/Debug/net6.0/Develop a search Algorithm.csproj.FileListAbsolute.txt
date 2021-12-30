@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Develop a search Algorithm\bin\Debug\net6.0\Develop a search Algorithm.exe
+C:\Users\Lenovo\Desktop\Develop a search Algorithm\bin\Debug\net6.0\Develop a search Algorithm.deps.json
+C:\Users\Lenovo\Desktop\Develop a search Algorithm\bin\Debug\net6.0\Develop a search Algorithm.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Develop a search Algorithm\bin\Debug\net6.0\Develop a search Algorithm.dll
+C:\Users\Lenovo\Desktop\Develop a search Algorithm\bin\Debug\net6.0\ref\Develop a search Algorithm.dll
+C:\Users\Lenovo\Desktop\Develop a search Algorithm\bin\Debug\net6.0\Develop a search Algorithm.pdb
+C:\Users\Lenovo\Desktop\Develop a search Algorithm\obj\Debug\net6.0\Develop a search Algorithm.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Develop a search Algorithm\obj\Debug\net6.0\Develop a search Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Develop a search Algorithm\obj\Debug\net6.0\Develop a search Algorithm.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Develop a search Algorithm\obj\Debug\net6.0\Develop a search Algorithm.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Develop a search Algorithm\obj\Debug\net6.0\Develop a search Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Develop a search Algorithm\obj\Debug\net6.0\Develop a search Algorithm.dll
+C:\Users\Lenovo\Desktop\Develop a search Algorithm\obj\Debug\net6.0\ref\Develop a search Algorithm.dll
+C:\Users\Lenovo\Desktop\Develop a search Algorithm\obj\Debug\net6.0\Develop a search Algorithm.pdb
+C:\Users\Lenovo\Desktop\Develop a search Algorithm\obj\Debug\net6.0\Develop a search Algorithm.genruntimeconfig.cache
